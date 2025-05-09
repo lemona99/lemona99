@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Ikhsanul Putra
+
+![Ikhsanul Putra](img/github-header.png)
 
 <!--
 **lemona99/lemona99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
